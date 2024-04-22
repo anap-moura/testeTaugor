@@ -1,4 +1,4 @@
-package com.taugor.testetaugor.security;
+package com.taugor.testetaugor.controller;
 
 import java.util.List;
 import java.util.Optional;
